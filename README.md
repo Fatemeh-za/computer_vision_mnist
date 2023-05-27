@@ -10,10 +10,6 @@ This repository contains an example of a convolutional neural network (CNN) bein
 - PyTorch
 - Torchvision
 
-## Usage
-
-1. Clone this repository.
-2. Run the `main.py` script to train the model.
 
 ## Code Explanation
 
